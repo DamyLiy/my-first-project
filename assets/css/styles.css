@@ -1,13 +1,14 @@
 body{
     background-color: lightgrey;
-    background-image: url("../images/felix-mittermeier-nAjil1z3eLk-unsplash\ \(1\).jpg");
+    background-image: url("../images/01-02-02_background-img.jpg");
 }
 h2{
     color: orangered;
 }
-h1{
-    color: white;
-}
+
 p {
     font-weight: bold;
+}
+.text-center {
+    text-align: center;
 }
